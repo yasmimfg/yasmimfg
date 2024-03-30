@@ -21,10 +21,7 @@
     <a href = "mailto: yasmimfg22@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "www.linkedin.com/in/
-yasmimgoncalves
-
-">
+    <a href = "www.linkedin.com/in/yasmimgoncalves">
       <img width="25" src="linkedin.svg">
     </a>
     </a>
