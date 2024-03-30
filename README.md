@@ -23,11 +23,11 @@
       <img width="30" src="gmail-svgrepo-com.svg">
     </a>
     <a href = "[www.linkedin.com/in/yasmimgoncalves](https://www.linkedin.com/in/yasmimgoncalves/)">
-      <img width="25" src="linkedin-svgrepo-com.svg">
+      <img width="25" src="linkedin-svgrepo-com.png">
     </a>
     </a>
     <a href = "[[[https://www.instagram.com/devparadev/](https://www.instagram.com/yasmimffg/)](https://www.instagram.com/yasmimffg/)](https://www.instagram.com/yasmimffg/)">
-      <img width="25" src="instagram-1-svgrepo-com.svg">
+      <img width="25" src="instagram-1-svgrepo-com.png">
     </a>
 </div>
   
