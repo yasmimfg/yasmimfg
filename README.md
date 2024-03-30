@@ -21,11 +21,14 @@
     <a href = "mailto: yasmimfg22@gmail.com">
       <img width="30" src="gmail.svg">
     </a>
-    <a href = "[https://www.linkedin.com/in/luigi-gottardello-fonseca-44651a205/](https://www.linkedin.com/in/yasmim-undefined-458b5b300/)">
+    <a href = "www.linkedin.com/in/
+yasmimgoncalves
+
+">
       <img width="25" src="linkedin.svg">
     </a>
     </a>
-    <a href = "[https://www.instagram.com/devparadev/](https://www.instagram.com/yasmimffg/)">
+    <a href = "[[https://www.instagram.com/devparadev/](https://www.instagram.com/yasmimffg/)](https://www.instagram.com/yasmimffg/)">
       <img width="25" src="instagram.png">
     </a>
 </div>
